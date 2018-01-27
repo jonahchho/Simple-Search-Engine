@@ -13,13 +13,13 @@ Execute Eclipse IDE and import the project
 
 ## System Architecture
 
-1. Building the Database
+### Building the Database
 
 Documents are stored in the database after doing the normalization, tokenization and calculation of the TF(Term Frequency).
 
 ![](img/SA-1.PNG)
 
-2. Handling the Query
+### Handling the Query
 
 The user query will be processed. The results will be ranked and presented to the user.
 
